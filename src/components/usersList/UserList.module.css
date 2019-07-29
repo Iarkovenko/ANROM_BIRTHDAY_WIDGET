@@ -1,0 +1,24 @@
+.userList {
+  padding-top: 25px;
+}
+
+.showMore,
+.noEvents {
+  font-family: 'VodafoneRg';
+}
+
+.noEvents {
+  font-style: italic;
+}
+
+.showMore {
+  text-transform: lowercase;
+  color: #404040;
+  position: relative;
+}
+
+.showMore::before {
+  content: '\0025BA';
+  position: absolute;
+  right: -20px;
+}

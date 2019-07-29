@@ -1,0 +1,20 @@
+.container {
+  padding-top: 30px;
+  background-color: #f5f3f3;
+  text-align: center;
+  min-height: 85vh;
+}
+
+.header_title {
+  text-transform: uppercase;
+  font-family: 'VodafoneRgBd';
+  font-size: 45px;
+  font-weight: bold;
+  color: #e72722;
+}
+
+@media (max-width: 767.98px) {
+  .header_title {
+    font-size: 30px;
+  }
+}

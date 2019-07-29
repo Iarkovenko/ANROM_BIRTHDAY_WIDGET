@@ -1,0 +1,31 @@
+.logo_img {
+  border-radius: 50%;
+  width: 100%;
+  height: auto;
+}
+
+.user {
+  margin-bottom: 20px;
+}
+
+.user_name {
+  font-family: 'VodafoneLt';
+  color: #404040;
+}
+
+.user_position {
+  font-family: 'VodafoneLt';
+  color: #b8b8b8;
+  font-style: italic;
+}
+
+.user_birthday {
+  font-family: 'VodafoneRgBd';
+  color: #404040;
+}
+
+@media (max-width: 769px) {
+  .user_position {
+    font-size: 0.75rem;
+  }
+}

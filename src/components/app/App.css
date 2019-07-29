@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'VodafoneLt';
+  src: local('VodafoneLt'), local('VodafoneLt'), url('../../assets/birthdayWidget/fonts/VodafoneLt.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'VodafoneRg';
+  src: local('VodafoneRg'), local('VodafoneRg'), url('../../assets/birthdayWidget/fonts/VodafoneRg.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'VodafoneRgBd';
+  src: local('VodafoneRgBd'), local('VodafoneRgBd'),
+    url('../../assets/birthdayWidget/fonts/VodafoneRgBd.woff') format('woff');
+}
