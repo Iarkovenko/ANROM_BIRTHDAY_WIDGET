@@ -1,6 +1,5 @@
 import React from 'react';
 
-// import { Header, BirthdayTabsContainer } from '../components';
 import Header from '../components/header/Header';
 import BirthdayTabsContainer from '../components/birthdayEventstabs/BirthdaysTabsContainer';
 
